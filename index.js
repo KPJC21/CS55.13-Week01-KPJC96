@@ -14,7 +14,7 @@ let myserver = myhttp.createServer(
 
     let mytext;
     if ( myrequest.url === "/hey" ) {
-      mytext = "Hi there, my name is Kevin.";
+      mytext = "Hi there newcomer, my name is Kevin.";
     } 
     
 
